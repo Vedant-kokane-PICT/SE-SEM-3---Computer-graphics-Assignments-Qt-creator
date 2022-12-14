@@ -1,3 +1,6 @@
+// 21415 - Vedant Kokane
+// Class - SE-4 , Batch - E4
+
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include <math.h>
