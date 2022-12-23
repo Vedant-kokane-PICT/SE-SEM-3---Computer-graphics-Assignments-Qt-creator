@@ -105,7 +105,7 @@ void MainWindow::on_pushButton_clicked()
         }
 
         for(j=0;j<k-1;j++){
-            for(i=0;i<k-1;i++){
+            for(i=0;i<k-j-1;i++){
                 if(xi[i]>xi[i+1]){
                     temp = xi[i];
                     xi[i] = xi[i+1];
